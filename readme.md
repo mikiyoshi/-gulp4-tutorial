@@ -1,5 +1,5 @@
 # Gulp4 + Babel7 + Sass
-Gulp4の学習のためのプロジェクト
+Gulp4の学習のためのProject
 
 [こちらのプロジェクトの解説動画はこちら](https://www.youtube.com/playlist?list=PLC_Jqbgu7I6ag6Xie7_J2HZYtPpIZBvCW)
 
