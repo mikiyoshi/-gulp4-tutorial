@@ -1,6 +1,5 @@
 const init = () => {
-  // console.log(hello('Bob', 'Tom'));
-  alert(hello('Bob', 'Tom'));
+  console.log(hello('Bob', 'Tom'));
 };
 
 function hello(...args) {
